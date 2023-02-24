@@ -12,7 +12,7 @@ Official Bot : [VCPlayerBot](https://telegram.me/vcplayerbot)   |   Discussion G
 
 # Requirements
 1. Telegram Api Id and Hash [ Get it from http://my.telegram.org ]
-2. A Telegram Bot Token. Get it from [@botfather](https://t.me/botfather) 
+2. A Telegram Bot Token. Get it from [@botfather] 6261297005:AAEnfm0uI-mbcYKc_qDSJQNDyPJ7_X1jyZE
 3. Python 3.6+
 4. [ Optional, only use if you are an advanced user ] Mongo DB [ Create free account from mongo website and get your connection string. ] 
 
@@ -20,7 +20,11 @@ Official Bot : [VCPlayerBot](https://telegram.me/vcplayerbot)   |   Discussion G
 1. Get your telegram API ID and API HASH from my.telegram.org and the BOT TOKEN from [@botfather](https://t.me/botfather)
 2. Generate your telegram session string using the `Run on Repl` button below (Click on run after opening the url below) or use the `generateSession.py` file or read the steps [mentioned here](get_session_string.md).
 
-- [![Run on Repl.it](https://repl.it/badge/github/kshubham506/vcplayerbot)](https://replit.com/@kshubham506/GenerateSession?lite=1&outputonly=1)
+- [![Run on Repl.it](https://repl.it/badge/github/rakesh11111
+- 
+
+
+/music](https://replit.com/@rakesh11111/GenerateSession?lite=1&outputonly=1)
 
 
 3. Click on the `Deploy to Heroku` button below. Fill in the required fields on the website that opens.
@@ -49,10 +53,10 @@ Starting from command line:
 - python3 main.py -env `prod|local`
 
 Available env variables
-- `Mandataory` **API_ID** :  get it from my.telegram.org
-- `Mandataory` **API_HASH** : get it from my.telegram.org
-- `Mandataory` **BOT_TOKEN** : bot token of your music bot, get it from @botfather
-- `Mandataory` **USERBOT_SESSION** : user bot pyrogram session string, read the steps [mentioned here](get_session_string.md) to get your session string.
+- `Mandataory` **API_ID** :  27874394
+- `Mandataory` **API_HASH** : 7d34cfcde089859977200f3d818532b1
+- `Mandataory` **BOT_TOKEN** : 6261297005:AAEnfm0uI-mbcYKc_qDSJQNDyPJ7_X1jyZE
+- `Mandataory` **USERBOT_SESSION** :  [mentioned here](get_session_string.md) BQBdI0mowmYj3KvnHPp-dzlHGCcB_KotAu9TZKAJNPG-tNop6xvn-uB56sP8QP63Etc0moUR50oLpXbWk7PHbJHwhdUL_8zIM_FXa82JscN0cxwMQfEBAAGRJXtEeFh7k4Kdt3RVaguz5l4_aKenrC7lsKrpwP6sqM9rXO6QpXm4jZs9QFs7AJsrA-UsHCZsKuIkX-yPva_uoZGrESNT4_K0WJl6yIKXYTrz2MFAHQKmedolNIeHIsA6npj-6oHUwr2AleZgE6g4Ilss8V4eqrUAdDEcIT7kY4jcJqNDPVrTcemnuLAfovxggb45C1ytB36AMz4Kx3v_P_3H6A-WnTRlAAAAAVFqOdYA
 - `Optional` **MONGO_URL** : connection url for mongo databse. needed if you wnat to run the service in single mode
 
 - Many other optional variables, check [Config.py](utils/Config.py) file for details.
@@ -75,7 +79,7 @@ Command | Description
 </p>
 
 # Developer
-[Shubham Kumar](https://github.com/kshubham506)
+[Shubham Kumar](https://github.com/rakesh11111)
 
 For any issues/questions please contact [here](https://telegram.me/voicechatsupport)
 
